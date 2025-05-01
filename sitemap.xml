@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/</loc>
-    <lastmod>2025-04-29T11:14:58-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/about/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/about/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/authors/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/authors/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/categories/</loc>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
-    <lastmod>2025-04-29T11:14:58-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/code-of-conduct/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/contact/</loc>
-    <lastmod>2025-04-29T01:49:17-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/contact/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/page/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/page/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/authors/filipe-carneiro/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/tags/index/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/tags/index/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/post/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/post/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/tags/privacy/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/tags/privacy/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/privacy-policy/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/privacy-policy/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/series/</loc>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sfang-cmd.github.io/hugo-mock-landing-page/tags/</loc>
-    <lastmod>2025-04-29T00:03:03-04:00</lastmod>
+    <loc>https://sfang-cmd.github.io/hyperlink-extractor-landing-page/tags/</loc>
+    <lastmod>2025-04-30T23:22:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
